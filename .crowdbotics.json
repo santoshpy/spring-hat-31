@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.4.0",
+    "cookiecutter_context": {
+      "project_name": "Spring Hat",
+      "project_slug": "spring_hat_31",
+      "project_dash_slug": "spring-hat-31",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "pms_group@cb-dev.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
